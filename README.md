@@ -19,4 +19,5 @@ I dati sono stati raccolti con google fogli:
 Code chunk per importare il dataset in uno script di R:
 dati = read.csv("https://raw.githubusercontent.com/Fede-Rausa/RepaxDatiPaninoteca/main/datiVendite.csv", 
                 sep=";")
+                
 dati$P = as.numeric(gsub(",",".", dati$P))
