@@ -17,6 +17,7 @@ I dati sono stati raccolti con google fogli:
 [datiPanini](https://docs.google.com/spreadsheets/d/1qeAc79YXXi5OGO2PGMZ_PmsMeU8R87O1duK5RucsWp4/edit?usp=sharing)
 
 Code chunk per importare il dataset in uno script di R:
+
 dati = read.csv("https://raw.githubusercontent.com/Fede-Rausa/RepaxDatiPaninoteca/main/datiVendite.csv", 
                 sep=";")
                 
