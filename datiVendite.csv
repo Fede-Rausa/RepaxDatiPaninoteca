@@ -1,0 +1,195 @@
+Q;P;prod;gg;anno;ggn;menu;contorno
+28;4;salamella;mar;21;2;0;0
+14;3;cotto;mar;21;2;0;0
+2;3;vegeta;mar;21;2;0;0
+5;3;speck;mar;21;2;0;0
+5;3;dog;mar;21;2;0;0
+6;2;patatine;mar;21;2;0;1
+12;2,5;birra;mar;21;2;0;1
+1;2;mozza;mar;21;2;0;1
+10;2,5;piadine nutella;mar;21;2;0;1
+36;1;patatine;mar;21;2;1;1
+12;1;mozza;mar;21;2;1;1
+35;4;salamella;mer;21;3;0;0
+8;3;cotto;mer;21;3;0;0
+3;3;vegeta;mer;21;3;0;0
+2;3;speck;mer;21;3;0;0
+6;3;dog;mer;21;3;0;0
+13;2;patatine;mer;21;3;0;1
+0;2,5;birra;mer;21;3;0;1
+2;2;mozza;mer;21;3;0;1
+2;2,5;piadine nutella;mer;21;3;0;1
+39;1;patatine;mer;21;3;1;1
+6;1;mozza;mer;21;3;1;1
+53;4;salamella;gio;21;4;0;0
+7;3;cotto;gio;21;4;0;0
+5;3;vegeta;gio;21;4;0;0
+11;3;speck;gio;21;4;0;0
+7;3;dog;gio;21;4;0;0
+6;2;patatine;gio;21;4;0;1
+14;2,5;birra;gio;21;4;0;1
+1;2;mozza;gio;21;4;0;1
+13;2,5;piadine nutella;gio;21;4;0;1
+63;1;patatine;gio;21;4;1;1
+7;1;mozza;gio;21;4;1;1
+81;4;salamella;ven;21;5;0;0
+10;3;cotto;ven;21;5;0;0
+13;3;vegeta;ven;21;5;0;0
+8;3;speck;ven;21;5;0;0
+19;3;dog;ven;21;5;0;0
+14;2;patatine;ven;21;5;0;1
+37;2,5;birra;ven;21;5;0;1
+7;2;mozza;ven;21;5;0;1
+4;2,5;piadine nutella;ven;21;5;0;1
+114;1;patatine;ven;21;5;1;1
+6;1;mozza;ven;21;5;1;1
+40;4;salamella;mar;22;2;0;0
+37;3,5;speck;mar;22;2;0;0
+22;3,5;dog;mar;22;2;0;0
+15;3,5;cotto;mar;22;2;0;0
+0;3,5;vegeta;mar;22;2;0;0
+40;2,5;patatine;mar;22;2;0;1
+16;1,5;patatine;mar;22;2;1;1
+3;2,5;panzerotti;mar;22;2;0;1
+5;2,5;mozza;mar;22;2;0;1
+5;2,5;piadine nutella;mar;22;2;0;1
+30;3;birra;mar;22;2;0;1
+90;4;salamella;mer;22;3;0;0
+17;3,5;speck;mer;22;3;0;0
+11;3,5;dog;mer;22;3;0;0
+6;3,5;cotto;mer;22;3;0;0
+7;3,5;vegeta;mer;22;3;0;0
+19;2,5;patatine;mer;22;3;0;1
+72;1,5;patatine;mer;22;3;1;1
+15;2,5;panzerotti;mer;22;3;0;1
+8;2,5;mozza;mer;22;3;0;1
+9;2,5;piadine nutella;mer;22;3;0;1
+43;3;birra;mer;22;3;0;1
+54;4;salamella;gio;22;4;0;0
+14;3,5;speck;gio;22;4;0;0
+15;3,5;dog;gio;22;4;0;0
+7;3,5;cotto;gio;22;4;0;0
+3;3,5;vegeta;gio;22;4;0;0
+18;2,5;patatine;gio;22;4;0;1
+44;1,5;patatine;gio;22;4;1;1
+18;2,5;panzerotti;gio;22;4;0;1
+13;2,5;mozza;gio;22;4;0;1
+10;2,5;piadine nutella;gio;22;4;0;1
+29;3;birra;gio;22;4;0;1
+125;4;salamella;ven;22;5;0;0
+35;3,5;speck;ven;22;5;0;0
+38;3,5;dog;ven;22;5;0;0
+10;3,5;cotto;ven;22;5;0;0
+12;3,5;vegeta;ven;22;5;0;0
+35;2,5;patatine;ven;22;5;0;1
+124;1,5;patatine;ven;22;5;1;1
+34;2,5;panzerotti;ven;22;5;0;1
+31;2,5;mozza;ven;22;5;0;1
+15;2,5;piadine nutella;ven;22;5;0;1
+95;3;birra;ven;22;5;0;1
+15;4,5;salamella;lun;23;1;0;0
+2;4,5;cotto&fontina;lun;23;1;0;0
+2;3,5;speck&tomino;lun;23;1;0;0
+1;3,5;speck&brie;lun;23;1;0;0
+2;3,5;pancetta&scamorza;lun;23;1;0;0
+1;3,5;hamburger suino;lun;23;1;0;0
+12;3,5;dog;lun;23;1;0;0
+3;3,5;vegeta;lun;23;1;0;0
+12;4,5;salamella;mar;23;2;0;0
+3;4,5;cotto&fontina;mar;23;2;0;0
+1;3,5;speck&tomino;mar;23;2;0;0
+0;3,5;speck&brie;mar;23;2;0;0
+7;3,5;pancetta&scamorza;mar;23;2;0;0
+3;3,5;hamburger suino;mar;23;2;0;0
+0;3,5;dog;mar;23;2;0;0
+2;3,5;vegeta;mar;23;2;0;0
+53;4,5;salamella;mer;23;3;0;0
+8;4,5;cotto&fontina;mer;23;3;0;0
+14;3,5;speck&tomino;mer;23;3;0;0
+3;3,5;speck&brie;mer;23;3;0;0
+1;3,5;pancetta&scamorza;mer;23;3;0;0
+17;3,5;hamburger suino;mer;23;3;0;0
+14;3,5;hot dog;mer;23;3;0;0
+3;3,5;vegeta;mer;23;3;0;0
+43;3,5;birra;mer;23;3;0;1
+2;1,2;bibita;mer;23;3;0;1
+53;4,5;salamella;gio;23;4;0;0
+8;4,5;cotto&fontina;gio;23;4;0;0
+14;3,5;speck&tomino;gio;23;4;0;0
+3;3,5;speck&brie;gio;23;4;0;0
+1;3,5;pancetta&scamorza;gio;23;4;0;0
+17;3,5;hamburger suino;gio;23;4;0;0
+14;3,5;dog;gio;23;4;0;0
+3;3,5;vegeta;gio;23;4;0;0
+43;3,5;birra;gio;23;4;0;1
+2;1,2;bibita;gio;23;4;0;1
+50;4,5;salamella;ven;23;5;0;0
+9;4,5;cotto&fontina;ven;23;5;0;0
+4;3,5;speck&tomino;ven;23;5;0;0
+1;3,5;speck&brie;ven;23;5;0;0
+7;3,5;pancetta&scamorza;ven;23;5;0;0
+19;3,5;hamburger suino;ven;23;5;0;0
+7;3,5;dog;ven;23;5;0;0
+4;3,5;vegeta;ven;23;5;0;0
+45;3,5;birra;ven;23;5;0;1
+4;1,2;bibita;ven;23;5;0;1
+12;2,5;patatine;lun;23;1;0;1
+3;2,5;panzerotti;lun;23;1;0;1
+1;2,5;anelli di cipolla;lun;23;1;0;1
+9;2,5;piadine nutella;lun;23;1;0;1
+1;2,5;nuggets;lun;23;1;0;1
+0;2,5;verdureg;lun;23;1;0;1
+6;2,5;patatine;mar;23;2;0;1
+1;2,5;panzerotti;mar;23;2;0;1
+1;2,5;anelli di cipolla;mar;23;2;0;1
+3;2,5;piadine nutella;mar;23;2;0;1
+0;2,5;nuggets;mar;23;2;0;1
+0;2,5;verdureg;mar;23;2;0;1
+13;2,5;patatine;mer;23;3;0;1
+0;2,5;panzerotti;mer;23;3;0;1
+3;2,5;anelli di cipolla;mer;23;3;0;1
+15;2,5;piadine nutella;mer;23;3;0;1
+5;2,5;nuggets;mer;23;3;0;1
+2;2,5;verdureg;mer;23;3;0;1
+11;2,5;patatine;gio;23;4;0;1
+6;2,5;panzerotti;gio;23;4;0;1
+2;2,5;anelli di cipolla;gio;23;4;0;1
+8;2,5;piadine nutella;gio;23;4;0;1
+11;2,5;nuggets;gio;23;4;0;1
+0;2,5;verdureg;gio;23;4;0;1
+17;2,5;patatine;ven;23;5;0;1
+9;2,5;panzerotti;ven;23;5;0;1
+6;2,5;anelli di cipolla;ven;23;5;0;1
+6;2,5;piadine nutella;ven;23;5;0;1
+2;2,5;nuggets;ven;23;5;0;1
+0;2,5;verdureg;ven;23;5;0;1
+18;1,5;patatine;lun;23;1;1;1
+6;1,5;panzerotti;lun;23;1;1;1
+1;1,5;anelli di cipolla;lun;23;1;1;1
+2;1,5;piadine nutella;lun;23;1;1;1
+1;1,5;nuggets;lun;23;1;1;1
+0;1,5;verdureg;lun;23;1;1;1
+9;1,5;patatine;mar;23;2;1;1
+1;1,5;panzerotti;mar;23;2;1;1
+0;1,5;anelli di cipolla;mar;23;2;1;1
+0;1,5;piadine nutella;mar;23;2;1;1
+0;1,5;nuggets;mar;23;2;1;1
+0;1,5;verdureg;mar;23;2;1;1
+87;1,5;patatine;mer;23;3;1;1
+0;1,5;panzerotti;mer;23;3;1;1
+8;1,5;anelli di cipolla;mer;23;3;1;1
+0;1,5;piadine nutella;mer;23;3;1;1
+11;1,5;nuggets;mer;23;3;1;1
+0;1,5;verdureg;mer;23;3;1;1
+56;1,5;patatine;gio;23;4;1;1
+5;1,5;panzerotti;gio;23;4;1;1
+6;1,5;anelli di cipolla;gio;23;4;1;1
+1;1,5;piadine nutella;gio;23;4;1;1
+1;1,5;nuggets;gio;23;4;1;1
+0;1,5;verdureg;gio;23;4;1;1
+50;1,5;patatine;ven;23;5;1;1
+8;1,5;panzerotti;ven;23;5;1;1
+7;1,5;anelli di cipolla;ven;23;5;1;1
+3;1,5;piadine nutella;ven;23;5;1;1
+2;1,5;nuggets;ven;23;5;1;1
+3;1,5;verdureg;ven;23;5;1;1
