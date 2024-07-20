@@ -12,6 +12,8 @@ Le analisi dei dati sono automatizzate al seguente sito, programmato in R e Shin
 
 [repaxBurger](https://fede-rausa.github.io/shinyRepax/)
 
+Il sito è un'app Shiny di R, il cui codice è interamente nel file app.R (compilabile in locale con R o online tramite il compiler [shinylive]()https://shinylive.io/r/examples/).
+
 I dati sono stati raccolti con google fogli:
 
 [datiPanini](https://docs.google.com/spreadsheets/d/1qeAc79YXXi5OGO2PGMZ_PmsMeU8R87O1duK5RucsWp4/edit?usp=sharing)
