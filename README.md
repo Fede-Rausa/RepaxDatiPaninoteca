@@ -1,3 +1,5 @@
+**Attenzione: nuove analisi sono disponibili al repo**  [RepaxPanini2021-2025](https://github.com/Fede-Rausa/RepaxPanini2021-2025/tree/main)
+
 # RepaxDatiPaninoteca
 I dati delle vendite della paninoteca di ottobre nella parrochia Regina Pacis (repax) di Saronno.
 
